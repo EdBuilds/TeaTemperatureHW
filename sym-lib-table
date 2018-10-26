@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name TeaTemperaturePCB-rescue)(type Legacy)(uri ${KIPRJMOD}/TeaTemperaturePCB-rescue.lib)(options "")(descr ""))
+  (lib (name STM32L011K4T6)(type Legacy)(uri /home/tamas/edbuilds/TeaTemperatureHW/libraries/STM32L011K4T6.lib)(options "")(descr ""))
+  (lib (name SI2323DS-T1-GE3)(type Legacy)(uri /home/tamas/edbuilds/TeaTemperatureHW/libraries/SI2323DS-T1-GE3.lib)(options "")(descr ""))
+  (lib (name ABT-407-RC)(type Legacy)(uri /home/tamas/edbuilds/TeaTemperatureHW/libraries/ABT-407-RC.lib)(options "")(descr ""))
+  (lib (name LMT84LPGM)(type Legacy)(uri /home/tamas/edbuilds/TeaTemperatureHW/libraries/LMT84LPGM.lib)(options "")(descr ""))
+  (lib (name TDSR0760)(type Legacy)(uri ${KIPRJMOD}/libraries/TDSR0760.lib)(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name BAT-HLD-001)(type Legacy)(uri ${KIPRJMOD}/libraries/BAT-HLD-001.mod)(options "")(descr ""))
+  (lib (name STM32L011K4T6)(type Legacy)(uri ${KIPRJMOD}/libraries/STM32L011K4T6.mod)(options "")(descr ""))
+  (lib (name custom_footprints)(type KiCad)(uri ${KIPRJMOD}/custom_footprints.pretty)(options "")(descr ""))
+)
