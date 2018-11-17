@@ -227,7 +227,7 @@
   )
 
   (module STM32L011K4T6:QFP80P900X900X160-32N (layer F.Cu) (tedit 0) (tstamp 5BD0FCBC)
-    (at 183.72 149.83)
+    (at 177.37 126.97)
     (path /5BD0E5BF)
     (attr smd)
     (fp_text reference U2 (at -2.51569 -6.35035) (layer F.SilkS)
@@ -971,7 +971,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58307A47) (tstamp 5BDD3C58)
-    (at 161.225001 137.674999 90)
+    (at 154.875001 114.814999 90)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5BD619A9)
@@ -1004,7 +1004,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58307A47) (tstamp 5BDD3C67)
-    (at 187.515001 148.864999 90)
+    (at 181.165001 126.004999 90)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5BD619AF)
@@ -1037,7 +1037,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58307A47) (tstamp 5BDD3C76)
-    (at 162.875001 137.674999 90)
+    (at 156.525001 114.814999 90)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5BD619B5)
@@ -1070,7 +1070,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58307A47) (tstamp 5BDD3C85)
-    (at 161.225001 133.624999 90)
+    (at 154.875001 110.764999 90)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5BD619BB)
@@ -1103,7 +1103,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58307A47) (tstamp 5BDD3C94)
-    (at 164.525001 137.674999 90)
+    (at 158.175001 114.814999 90)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5BD619C1)
@@ -1136,7 +1136,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58307A47) (tstamp 5BDD3CA3)
-    (at 190.5 139.7 90)
+    (at 184.15 116.84 90)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5BD619C7)
@@ -1169,7 +1169,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58307A47) (tstamp 5BDD3CB2)
-    (at 166.175001 137.674999 90)
+    (at 159.825001 114.814999 90)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5BD619CD)
@@ -1202,7 +1202,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58307A47) (tstamp 5BDD3CC1)
-    (at 162.875001 133.624999 90)
+    (at 156.525001 110.764999 90)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5BD5A3F7)
@@ -1268,7 +1268,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58307A47) (tstamp 5BDD3CDF)
-    (at 164.525001 133.624999 90)
+    (at 158.175001 110.764999 90)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5BD5B475)
@@ -1334,7 +1334,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58307A47) (tstamp 5BDD3CFD)
-    (at 166.175001 133.624999 90)
+    (at 159.825001 110.764999 90)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5BD5B4EF)
